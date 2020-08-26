@@ -1,6 +1,4 @@
-### Hi there, I'm Quentin and welcome to my Github profile 😊
-
-## I'm a student at EPITECH Paris!
+### Hi there, I'm Quentin and welcome to my Github profile :blush:
 
 <br />
 
@@ -21,9 +19,4 @@
 
 ---
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=QuentindiMeo&show_icons=true&hide_border=true" />
-
-</details>
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=QuentindiMeo&show_icons=true&hide_border=true" />
