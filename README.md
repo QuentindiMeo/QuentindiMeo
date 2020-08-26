@@ -1,8 +1,8 @@
-## Welcome to my Github profile :blush:
+### Welcome to my Github profile :blush:
 
 ### Languages and tools I have worked with:
 
-[<img align="left" alt="C" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />]()
+[<img align="left" alt="C" width="26px" src="https://techwizard.netlify.app/Assets/C.png" />]()
 [<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />]()
 [<img align="left" alt="Haskell" width="26px" src="https://img.stackshare.io/service/1069/oCgm29k9.png" />]()
 [<img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
