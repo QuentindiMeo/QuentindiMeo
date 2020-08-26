@@ -1,8 +1,6 @@
 ### Hi there, I'm Quentin and welcome to my Github profile :blush:
 
-<br />
-
-### Languages and Tools:
+### Languages and tools I have worked with:
 
 <img align="left" alt="C" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
 <img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
