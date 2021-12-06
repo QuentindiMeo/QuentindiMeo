@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 ### Welcome to my GitHub profile :blush:
-=======
-## Welcome to my Github profile :blush:
->>>>>>> 3c8f4286070871ef3d01c2ccba3b3c9d3dae0f6f
 
 ### Languages and tools I have worked with:
 
@@ -21,11 +17,9 @@
 
 ---
 
-<<<<<<< HEAD
 <b>I don't have much to show you really, but what you will find here is a compilation of school projects and personal projects: math, interactive games, IA, language exploration, coding style flexing... Hope you will find something interesting in here!</b>
 
 ---
 
-=======
 >>>>>>> 3c8f4286070871ef3d01c2ccba3b3c9d3dae0f6f
 [<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=QuentindiMeo&count_private=true&include_all_commits=true&show_icons=true&hide_border=true" />]()
