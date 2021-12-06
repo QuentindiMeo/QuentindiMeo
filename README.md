@@ -1,4 +1,4 @@
-### Welcome to my Github profile :blush:
+### Welcome to my GitHub profile :blush:
 
 ### Languages and tools I have worked with:
 
@@ -14,7 +14,10 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
 
 <br />
-<br />
+
+---
+
+<b>I don't have much to show you really, but what you will find here is a compilation of school projects and personal projects: math, interactive games, IA, language exploration, coding style flexing... Hope you will find something interesting in here!</b>
 
 ---
 
