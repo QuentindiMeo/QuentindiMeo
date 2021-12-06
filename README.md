@@ -21,5 +21,4 @@
 
 ---
 
->>>>>>> 3c8f4286070871ef3d01c2ccba3b3c9d3dae0f6f
 [<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=QuentindiMeo&count_private=true&include_all_commits=true&show_icons=true&hide_border=true" />]()
