@@ -1,10 +1,10 @@
 ### Welcome to my GitHub profile :blush:
 
-### Languages and tools I have worked with:
+### Languages and tools I've worked with:
 
-[<img align="left" alt="C" width="26px" src="https://techwizard.netlify.app/Assets/C.png" />](https://github.com/QuentindiMeo/Project-Euler)
-[<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />](https://github.com/QuentindiMeo/Quoter)
 [<img align="left" alt="Py" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />](https://github.com/QuentindiMeo/python-chess)
+[<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />](https://github.com/QuentindiMeo/Quoter)
+[<img align="left" alt="C" width="26px" src="https://techwizard.netlify.app/Assets/C.png" />](https://github.com/QuentindiMeo/Project-Euler)
 [<img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://github.com/QuentindiMeo/IllaVita)
 [<img align="left" alt="Haskell" width="26px" src="https://img.stackshare.io/service/1069/oCgm29k9.png" />](https://github.com/QuentindiMeo)
 [<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://github.com/QuentindiMeo/IllaVita)
@@ -17,7 +17,7 @@
 
 ---
 
-<b>I don't have much to show you really, but what you will find here is a compilation of school projects and personal projects: math, interactive games, IA, language exploration, coding style flexing... Hope you will find something interesting in here!</b>
+<b>I don't have much to show you really, but what you will find here is a compilation of school projects and personal projects: math, interactive games, AI, language exploration, coding style flexing... I hope you'll find something interesting in here!</b>
 
 ---
 
