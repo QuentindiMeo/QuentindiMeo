@@ -17,13 +17,24 @@
 [<img align="left" alt="Script"  width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/QuentindiMeo)
 [<img align="left" alt="transl"  width="36px" src="https://upload.wikimedia.org/wikipedia/commons/1/14/Google_Translate_logo_%28old%29.png" />](https://github.com/QuentindiMeo)
 
-<wbr /><br />
+<br />
 
-<hr />
+---
 
-<b>I don't have much to show you really, but what you will find here is a compilation of school projects and personal projects: math, interactive games, AI, language exploration, coding style flexing... I hope you'll find something interesting in here!</b>
+### Activities
 
-<hr />
+- 🎓 Student at EPITECH Paris (Masters course — grad. 2024)
+- 📱 Co-Founder and former Mobile+Web dev at [**Hik'UP**](https://github.com/Hik-UP)
+- 💣 Alpha mine sweeper (Personal Best: 78s Expert noRNG)
+- 🧹  Clean & efficient code advocate (mind your tabs & nesting)
+- ♟️ Sigma chess enjoyer (low elo, you don't wanna know)
+- 🌍 Language enthusiast (5 spoken, 11+ understood)
 
-[<img align="left" alt="GitHub user stats" src="https://github-readme-stats.vercel.app/api?username=QuentindiMeo&count_private=true&include_all_commits=true&show_icons=true&hide_border=true" />](https://github.com/QuentindiMeo)
-[<img align="left" alt="Github lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quentindimeo&count_private=true&langs_count=8&layout=compact&show_icons=true&hide_border=true" />](https://github.com/QuentindiMeo)
+---
+
+**I don't have much to show you really, but what you will find here is a compilation of school projects and personal projects: math, interactive games, AI, language exploration, coding style flexing... I hope you'll find something interesting in here!**
+
+---
+
+[<img align="left" alt="GitHub user stats" src="https://github-readme-stats.vercel.app/api?username=QuentindiMeo&count_private=true&include_all_commits=true&theme=transparent&show_icons=true&hide_border=true" />](https://github.com/QuentindiMeo)
+[<img align="left" alt="Github lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quentindimeo&count_private=true&langs_count=8&theme=transparent&layout=compact&show_icons=true&hide_border=true" />](https://github.com/QuentindiMeo)
