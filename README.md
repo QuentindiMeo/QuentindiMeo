@@ -17,22 +17,22 @@
 [<img align="left" alt="Script"  width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/QuentindiMeo)
 [<img align="left" alt="transl"  width="36px" src="https://upload.wikimedia.org/wikipedia/commons/1/14/Google_Translate_logo_%28old%29.png" />](https://github.com/QuentindiMeo)
 
-<br />
+<br />  
 
 ---
 
 ### Activities
 
 - 🎓 Student at EPITECH Paris (Masters course — grad. 2024)
-- 📱 Co-Founder and former Mobile+Web dev at [**Hik'UP**](https://github.com/Hik-UP)
-- 💣 Alpha mine sweeper (Personal Best: 78s Expert noRNG)
-- 🧹  Clean & efficient code advocate (mind your tabs & nesting)
-- ♟️ Sigma chess enjoyer (low elo, you don't wanna know)
-- 🌍 Language enthusiast (5 spoken, 11+ understood)
+- 📱 Co-Founder and former Mobile+Web dev at [**Hik'UP**](https://github.com/Hik-UP) 🏞️
+- 💣 Alpha mine sweeper (Personal Best: [**78s**](https://www.facebook.com/Quentin.Swono/posts/pfbid028j8njEjWZ4qCiVVSHJ9w8vf26p2t6Txwk2PpQKWzJ8jWbnMKoVHmoZCUAjjARbhpl) Expert noRNG)
+- 🧹  Clean & efficient code advocate (mind your tabs & nesting or else 🔫)
+- ♟️ Sigma chess enjoyer (~1200 elo, yeah I know 🙃)
+- 🌍 Language enthusiast (**5** spoken 🤓, **11+** understood ✍️)
 
 ---
 
-**I don't have much to show you really, but what you will find here is a compilation of school projects and personal projects: math, interactive games, AI, language exploration, coding style flexing... I hope you'll find something interesting in here!**
+#### I don't have much to show you really, but what you will find here is a compilation of school projects and personal projects: math, interactive games, AI, language exploration, coding style flexing... I hope you'll find something interesting in here!
 
 ---
 
