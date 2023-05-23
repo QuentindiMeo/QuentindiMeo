@@ -5,7 +5,7 @@
 [<img align="left" alt="Py"      width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />](https://github.com/QuentindiMeo/python-chess)
 [<img align="left" alt="C++"     width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />](https://github.com/QuentindiMeo/Quoter)
 [<img align="left" alt="C"       width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" />](https://github.com/QuentindiMeo/Project-Euler)
-[<img align="left" alt="React"   width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />](https://github.com/QuentindiMeo)
+[<img align="left" alt="React"   width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />](https://github.com/QuentindiMeo/Dashboard)
 [<img align="left" alt="Haskell" width="36px" src="https://img.stackshare.io/service/1069/oCgm29k9.png" />](https://github.com/QuentindiMeo)
 [<img align="left" alt="HTML"    width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://github.com/QuentindiMeo/IllaVita)
 [<img align="left" alt="CSS"     width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://github.com/QuentindiMeo/IllaVita)
@@ -15,9 +15,9 @@
 [<img align="left" alt="JuPy"    width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />](https://github.com/QuentindiMeo)
 [<img align="left" alt="Git"     width="36px" src="https://i.pinimg.com/originals/01/e5/00/01e500fca29c045d432b64f285f9c229.png" />](https://github.com/QuentindiMeo)
 [<img align="left" alt="Script"  width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/QuentindiMeo)
-[<img align="left" alt="transl"  width="36px" src="https://upload.wikimedia.org/wikipedia/commons/1/14/Google_Translate_logo_%28old%29.png" />](https://github.com/QuentindiMeo)
+[<img align="left" alt="lang"    width="36px" src="https://upload.wikimedia.org/wikipedia/commons/1/14/Google_Translate_logo_%28old%29.png" />](https://github.com/QuentindiMeo)
 
-<br />  
+<br /><br />  
 
 ---
 
@@ -26,13 +26,15 @@
 - 🎓 Student at EPITECH Paris (Masters course — grad. 2024)
 - 📱 Co-Founder and former Mobile+Web dev at [**Hik'UP**](https://github.com/Hik-UP) 🏞️
 - 💣 Alpha mine sweeper (Personal Best: [**78s**](https://www.facebook.com/Quentin.Swono/posts/pfbid028j8njEjWZ4qCiVVSHJ9w8vf26p2t6Txwk2PpQKWzJ8jWbnMKoVHmoZCUAjjARbhpl) Expert noRNG)
-- 🧹  Clean & efficient code advocate (mind your tabs & nesting or else 🔫)
-- ♟️ Sigma chess enjoyer (~1200 elo, yeah I know 🙃)
+- 🧹  Clean & efficient code advocate (mind your tabs & **nesting** or else 🔫)
+- ♟️ Sigma chess enjoyer (~**1200** elo, yeah I know 🙃)
 - 🌍 Language enthusiast (**5** spoken 🤓, **11+** understood ✍️)
 
 ---
 
 #### I don't have much to show you really, but what you will find here is a compilation of school projects and personal projects: math, interactive games, AI, language exploration, coding style flexing... I hope you'll find something interesting in here!
+
+<small>this profile and some repo's are not up-to-date, I'll sort that out asap; sorry in advance!</small>
 
 ---
 
