@@ -23,20 +23,20 @@
 
 ### Activities
 
-- 🎓 Student at EPITECH Paris (Masters course — grad. 2024)
-- 📱 Co-Founder and former Mobile+Web dev at [**Hik'UP**](https://github.com/Hik-UP) 🏞️
-- 💣 Alpha mine sweeper (Personal Best: [**78s**](https://www.facebook.com/Quentin.Swono/posts/pfbid028j8njEjWZ4qCiVVSHJ9w8vf26p2t6Txwk2PpQKWzJ8jWbnMKoVHmoZCUAjjARbhpl) Expert noRNG)
-- 🧹  Clean & efficient code advocate (mind your tabs & **nesting** or else 🔫)
-- ♟️ Sigma chess enjoyer (~**1200** elo, yeah I know 🙃)
-- 🌍 Language enthusiast (**5** spoken 🤓, **11+** understood ✍️)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎓 Student at EPITECH Paris (Masters course — grad. 2024)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📱 Co-Founder and former Mobile+Web dev at [**Hik'UP** 🏞️](https://github.com/Hik-UP)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💣 Alpha mine sweeper (Personal Best: [**78s**](https://www.facebook.com/Quentin.Swono/posts/pfbid028j8njEjWZ4qCiVVSHJ9w8vf26p2t6Txwk2PpQKWzJ8jWbnMKoVHmoZCUAjjARbhpl) Expert noRNG)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🧹  Clean & efficient code advocate (mind your tabs & **nesting** or else 🔫)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ♟️ Sigma chess enjoyer (~**1200** elo, yeah I know)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌍 Language enthusiast (**5** spoken, **11+** understood ✍️)  
 
 ---
 
-#### I don't have much to show you really, but what you will find here is a compilation of school projects and personal projects: math, interactive games, AI, language exploration, coding style flexing... I hope you'll find something interesting in here!
+### I don't have much to show you really, but what you will find here is a compilation of school projects and personal projects: math, interactive games, AI, language exploration, coding style flexing... I hope you'll find something interesting in here!
 
-<small>this profile and some repo's are not up-to-date, I'll sort that out asap; sorry in advance!</small>
+<p><small>this profile and some repo's are not up-to-date, I'll sort that out asap; sorry in advance!</small></p>
 
 ---
 
-[<img align="left" alt="GitHub user stats" src="https://github-readme-stats.vercel.app/api?username=QuentindiMeo&count_private=true&include_all_commits=true&theme=transparent&show_icons=true&hide_border=true" />](https://github.com/QuentindiMeo)
-[<img align="left" alt="Github lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quentindimeo&count_private=true&langs_count=8&theme=transparent&layout=compact&show_icons=true&hide_border=true" />](https://github.com/QuentindiMeo)
+[<img align="left" alt="GitHub user stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=QuentindiMeo&count_private=true&include_all_commits=true&theme=transparent&show_icons=true&custom_title='Quentin\'s GitHub Stats'&hide_border=true" />](https://github.com/QuentindiMeo)
+[<img align="left" alt="Github lang stats" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=QuentindiMeo&count_private=true&langs_count=8&theme=transparent&card_width=330&layout=compact&show_icons=true&hide_border=true" />](https://github.com/QuentindiMeo)
