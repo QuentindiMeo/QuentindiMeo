@@ -1,6 +1,6 @@
 ## Welcome to my GitHub profile :relaxed:
 
-### Languages and tools I've worked with: (click to go)
+### Languages and tools I've worked with: <small><small><small>(click to go)</small></small></small><br />
 
 [<img align="left" alt="Py"      width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />](https://github.com/QuentindiMeo/python-chess)
 [<img align="left" alt="C++"     width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />](https://github.com/QuentindiMeo/Quoter)
@@ -39,5 +39,5 @@
 
 ---
 
-[<img align="left" alt="GitHub user stats" src="https://github-readme-stats.vercel.app/api?username=QuentindiMeo&count_private=true&include_all_commits=true&theme=transparent&show_icons=true&custom_title=Quentin%27s%20GitHub%20Stats&hide_border=true" />](https://github.com/QuentindiMeo)
-[<img align="left" alt="Github lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuentindiMeo&count_private=true&langs_count=8&theme=transparent&card_width=330&layout=compact&show_icons=true&hide_border=true" />](https://github.com/QuentindiMeo)
+[<img align="left" alt="GitHub user stats" src="https://github-readme-stats.vercel.app/api?username=QuentindiMeo&count_private=true&include_all_commits=true&theme=transparent&show_icons=true&custom_title=Quentin%27s%20GitHub%20Stats&hide_border=true" />](https://github-readme-stats.vercel.app/api?username=QuentindiMeo&count_private=true&include_all_commits=true&theme=transparent&show_icons=true&custom_title=Quentin%27s%20GitHub%20Stats&hide_border=true)
+[<img align="left" alt="Github lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuentindiMeo&count_private=true&langs_count=8&theme=transparent&card_width=330&layout=compact&show_icons=true&hide_border=true" />](https://github-readme-stats.vercel.app/api/top-langs/?username=QuentindiMeo&count_private=true&langs_count=8&theme=transparent&card_width=330&layout=compact&show_icons=true&hide_border=true)
