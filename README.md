@@ -2,7 +2,6 @@
 
 ### Languages and tools I've worked with: (click to go)
 
-<br />
 [<img align="left" alt="Py"      width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />](https://github.com/QuentindiMeo/python-chess)
 [<img align="left" alt="C++"     width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />](https://github.com/QuentindiMeo/Quoter)
 [<img align="left" alt="C"       width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" />](https://github.com/QuentindiMeo/Project-Euler)
