@@ -1,6 +1,6 @@
 ## Welcome to my GitHub profile :relaxed:
 
-### Languages and tools I've worked with: <sub>(click to go)</sub>
+### Languages and tools I've worked with: <sub><sup><sup>(click to go)</sup></sup></sub>
 <br />
 
 [<img align="left" alt="Py"      width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />](https://github.com/QuentindiMeo/python-chess)
@@ -17,7 +17,7 @@
 [<img align="left" alt="Prolog"  width="36px" src="https://dashboard.snapcraft.io/site_media/appmedia/2020/04/Prolog-logo-512.png" />](https://github.com/QuentindiMeo)
 [<img align="left" alt="Docker"  width="36px" src="https://cdn.iconscout.com/icon/free/png-256/free-docker-226091.png" />](https://github.com/QuentindiMeo/Dashboard)
 [<img align="left" alt="Script"  width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/QuentindiMeo/Quoter)
-[<img align="left" alt="lang"    width="36px" src="https://upload.wikimedia.org/wikipedia/commons/1/14/Google_Translate_logo_%28old%29.png" />](https://github.com/QuentindiMeo/Solitarium)
+[<img align="left" alt="langs"   width="36px" src="https://upload.wikimedia.org/wikipedia/commons/1/14/Google_Translate_logo_%28old%29.png" />](https://github.com/QuentindiMeo/Solitarium)
 
 <br />
 
