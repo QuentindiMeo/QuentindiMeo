@@ -1,6 +1,6 @@
 ## Welcome to my GitHub profile :relaxed:
 
-### Languages and tools I've worked with: <font size="1">(click to go)</font>
+### Languages and tools I've worked with: <sub>(click to go)</sub>
 <br />
 
 [<img align="left" alt="Py"      width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />](https://github.com/QuentindiMeo/python-chess)
@@ -29,12 +29,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📱 Co-Founder and former Mobile+Web dev at [**Hik'UP** 🏞️](https://github.com/Hik-UP)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💣 Alpha mine sweeper (Personal Best: [**78s**](https://www.facebook.com/Quentin.Swono/posts/pfbid028j8njEjWZ4qCiVVSHJ9w8vf26p2t6Txwk2PpQKWzJ8jWbnMKoVHmoZCUAjjARbhpl) Expert noRNG)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🧹  Clean & efficient code advocate (mind your tabs & **nesting** or else 🔫)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ♟️ Sigma chess enjoyer (~**1600** puzzle elo, yeah I know)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ♟️ Sigma chess enjoyer (~**1630** puzzle elo, yeah I know)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌍 Language enthusiast (**5** spoken, **11+** understood ✍️)  
 
 ---
 
-### I don't have much to show you really, but what you will find here is a compilation of school projects and personal projects: math, interactive games, AI, language exploration, coding style flexing... I hope you'll find something interesting in here!
+### I don't have much to show you; what you will find here is a compilation of school and personal projects: math, interactive games, AI, language exploration, coding style flexing... I hope you'll find something interesting in here! :)
 
 <sup>this profile and some repo's are not up-to-date, I'll sort that out asap; sorry in advance!</sup>
 
