@@ -9,14 +9,14 @@
 [<img align="left" alt="React"   width="36px" src="https://i.imgur.com/plQ2HPR.png" />](https://github.com/QuentindiMeo/Dashboard)
 [<img align="left" alt="TScript" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" />](https://www.live-crew.com/)
 [<img align="left" alt="Haskell" width="36px" src="https://img.stackshare.io/service/1069/oCgm29k9.png" />](https://github.com/QuentindiMeo/HS-Training-Camp)
-[<img align="left" alt="Git"     width="36px" src="https://i.pinimg.com/originals/01/e5/00/01e500fca29c045d432b64f285f9c229.png" />](https://github.com/QuentindiMeo)
+[<img align="left" alt="Script"  width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/QuentindiMeo/Quoter)
 <br /><br />
 [<img align="left" alt="HTML"    width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://github.com/QuentindiMeo/IllaVita)
 [<img align="left" alt="CSS"     width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://github.com/QuentindiMeo/IllaVita)
 [<img align="left" alt="Dart"    width="36px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" />](https://github.com/Hik-UP)
 [<img align="left" alt="Prolog"  width="36px" src="https://dashboard.snapcraft.io/site_media/appmedia/2020/04/Prolog-logo-512.png" />](https://github.com/QuentindiMeo)
 [<img align="left" alt="Docker"  width="36px" src="https://cdn.iconscout.com/icon/free/png-256/free-docker-226091.png" />](https://github.com/QuentindiMeo/Dashboard)
-[<img align="left" alt="Script"  width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/QuentindiMeo/Quoter)
+[<img align="left" alt="Java"    width="36px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />](https://github.com/QuentindiMeo)
 [<img align="left" alt="langs"   width="36px" src="https://upload.wikimedia.org/wikipedia/commons/1/14/Google_Translate_logo_%28old%29.png" />](https://github.com/QuentindiMeo/Solitarium)
 
 <br />
@@ -26,10 +26,10 @@
 ### Activities
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎓 Student at EPITECH Paris (Masters course — grad. 2024)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📱 Co-Founder and former Mobile+Web dev at [**Hik'UP** 🏞️](https://github.com/Hik-UP)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💣 Alpha mine sweeper (Personal Best: [**78s**](https://www.facebook.com/Quentin.Swono/posts/pfbid028j8njEjWZ4qCiVVSHJ9w8vf26p2t6Txwk2PpQKWzJ8jWbnMKoVHmoZCUAjjARbhpl) Expert noRNG)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🧹  Clean & efficient code advocate (mind your tabs & **nesting** or else 🔫)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ♟️ Sigma chess enjoyer (~**1630** puzzle elo, yeah I know)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📱 Co-Founder and former Mobile dev & Web designer @ [**Hik'UP** 🏞️](https://github.com/Hik-UP)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💣 Emeritus mine sweeper (Personal Best: [**78s**](https://www.facebook.com/Quentin.Swono/posts/pfbid028j8njEjWZ4qCiVVSHJ9w8vf26p2t6Txwk2PpQKWzJ8jWbnMKoVHmoZCUAjjARbhpl) Expert noRNG)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🧹  Clean & efficient code advocate (mind your tabs & **nesting**, or else 🔫)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ♟️ Sigma chess enjoyer (~**1700** puzzle elo, yeah I know)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌍 Language enthusiast (**5** spoken, **11+** understood ✍️)  
 
 ---
