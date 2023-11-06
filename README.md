@@ -3,7 +3,7 @@
 ### Languages and tools I've worked with: <sub><sup><sup>(click to go)</sup></sup></sub>
 <br />
 
-[<img align="left" alt="Py"      width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />](https://github.com/QuentindiMeo/python-chess)
+[<img align="left" alt="Py"      width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />](https://github.com/QuentindiMeo/goodnight.py)
 [<img align="left" alt="C++"     width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />](https://github.com/QuentindiMeo/Quoter)
 [<img align="left" alt="C"       width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" />](https://github.com/QuentindiMeo/Project-Euler)
 [<img align="left" alt="React"   width="36px" src="https://i.imgur.com/plQ2HPR.png" />](https://github.com/QuentindiMeo/Dashboard)
@@ -34,11 +34,13 @@
 
 ---
 
-<big><big>I don't have much to show you; what you will find here is a compilation of school and personal projects: math, interactive games, AI, language exploration, coding style flexing... I hope you'll find something interesting in here! :)</big></big>
+<big><big>what you will find here is a compilation of school and personal projects: math, interactive games, AI, language exploration, coding style flexing... I hope you'll find something interesting to you! :)</big></big>
 
-<sup>this profile and some repo's are not up-to-date, I'll sort that out asap; sorry in advance!</sup>
+<sup>this profile and some repo's are not up-to-date, I'll sort that out asap (one day before 2077 (maybe)); sorry in advance!</sup>
 
 ---
 
-[<img align="left" alt="GitHub user stats" src="https://github-readme-stats.vercel.app/api?username=QuentindiMeo&count_private=true&include_all_commits=true&theme=transparent&show_icons=true&custom_title=Quentin%27s%20GitHub%20Stats&hide_border=true" />](https://github-readme-stats.vercel.app/api?username=QuentindiMeo&count_private=true&include_all_commits=true&theme=transparent&show_icons=true&custom_title=Quentin%27s%20GitHub%20Stats&hide_border=true)
-[<img align="left" alt="Github lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuentindiMeo&count_private=true&langs_count=8&theme=transparent&card_width=330&layout=compact&show_icons=true&hide_border=true" />](https://github-readme-stats.vercel.app/api/top-langs/?username=QuentindiMeo&count_private=true&langs_count=8&theme=transparent&card_width=330&layout=compact&show_icons=true&hide_border=true)
+<div align="center">
+  [<img align="left" alt="GitHub user stats" src="https://github-readme-stats.vercel.app/api?username=QuentindiMeo&count_private=true&include_all_commits=true&theme=transparent&show_icons=true&custom_title=Quentin%27s%20GitHub%20Stats&hide_border=true" />](https://github.com/QuentindiMeo)
+  [<img align="left" alt="Github lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuentindiMeo&count_private=true&langs_count=8&theme=transparent&card_width=330&layout=compact&show_icons=true&hide_border=true" />](https://github.com/QuentindiMeo)
+</div>
