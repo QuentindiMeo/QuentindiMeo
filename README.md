@@ -17,7 +17,7 @@
 [<img align="left" alt="HTML"    width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://github.com/QuentindiMeo/IllaVita)
 [<img align="left" alt="CSS"     width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://github.com/QuentindiMeo/IllaVita)
 [<img align="left" alt="Docker"  width="36px" src="https://cdn.iconscout.com/icon/free/png-256/free-docker-226091.png" />](https://github.com/QuentindiMeo/Dashboard)
-[<img align="left" alt="Java"    width="36px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />](https://github.com/QuentindiMeo)
+[<img align="left" alt="Java"    width="36px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />](https://www.steamulo.com/)
 [<img align="left" alt="langs"   width="36px" src="https://upload.wikimedia.org/wikipedia/commons/1/14/Google_Translate_logo_%28old%29.png" />](https://github.com/QuentindiMeo/Solitarium)
 
 </div>
