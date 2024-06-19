@@ -34,7 +34,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :computer: Former Software developer (End of Studies Project) @ [**Cubic Server** :ice_cube:](https://github.com/CubicMC)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :bomb: Emeritus mine sweeper (Personal Best: [**78s**](https://www.facebook.com/Quentin.Swono/posts/pfbid028j8njEjWZ4qCiVVSHJ9w8vf26p2t6Txwk2PpQKWzJ8jWbnMKoVHmoZCUAjjARbhpl) Expert noRNG)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :broom: Clean & efficient code advocate (mind your **branches**, or else 🔫)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :chess_pawn: Sigma chess enjoyer (~**1700** puzzle elo, yeah I know)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :chess_pawn: Sigma chess enjoyer (~**1800** puzzle elo, yeah I know)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :earth_africa: Language enthusiast (**5** spoken, **10+** understood ✍️)  
 
 ---
@@ -42,6 +42,11 @@
 What you will find here is a compilation of school and personal projects: math, interactive games, AI, language exploration, coding style flexing... I hope you'll find something interesting to you! :)
 
 <sup>Some repo's here are not up-to-date, I'll sort that out asap (one day before 2077 [maybe]); sorry in advance!</sup>
+<div align="center">
+    <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Z9V98YGZMK8CU">
+    <img alt="PayPal donate button" src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" width="15%" />
+    </a>
+</div>
 
 ---
 
