@@ -29,8 +29,8 @@
 
   <br />
 
-  ![views](https://komarev.com/ghpvc/?username=QuentindiMeo&color=2347cc&style=flat-square&label=views%20∵%20July%201%202024)![ ](https://hit.yhype.me/github/profile?user_id=43745346)
-  ![GitHub Stats](https://img.shields.io/static/v1?label=streak&message=21&color=2347cc&style=flat-square)
+  <sup><b>since July 01, 2024:</b></sup>&nbsp;&nbsp;![views](https://komarev.com/ghpvc/?username=QuentindiMeo&color=2347cc&style=flat-square&label=profile%20views)![ ](https://hit.yhype.me/github/profile?user_id=43745346)
+  ![GitHub Stats](https://img.shields.io/static/v1?label=longest%20streak&message=21&color=2347cc&style=flat-square)
   [![wakatime](https://wakatime.com/badge/user/e02be71d-4679-4707-9204-1bf72932d23c.svg?style=flat-square)](https://wakatime.com/@e02be71d-4679-4707-9204-1bf72932d23c)
 
 </div>
