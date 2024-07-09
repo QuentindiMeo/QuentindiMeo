@@ -56,11 +56,10 @@ What you will find here is a compilation of school and personal projects: math, 
 
 # <!-- Small line break, looking better than <hr/> -->
 
-<!-- ![all - streak - longest card](https://streak-stats.demolab.com/demo/?user=Quentindimeo&theme=default&hide_border=false&border_radius=4.5&locale=en&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg) -->
-
 <div align="center">
-
-  <a href="https://github.com/QuentindiMeo"><img alt="GitHub user stats" src="https://github-readme-stats.vercel.app/api?username=QuentindiMeo&count_private=true&include_all_commits=true&theme=transparent&show_icons=true&custom_title=Quentin%27s%20GitHub%20Stats&hide_border=true" /></a>
+  <!-- <a href="https://github.com/QuentindiMeo"><img alt="GitHub user stats" src="https://github-readme-stats.vercel.app/api?username=QuentindiMeo&count_private=true&include_all_commits=true&theme=transparent&show_icons=true&custom_title=Quentin%27s%20GitHub%20Stats&hide_border=true" /></a> -->
+  <a href="https://github.com/QuentindiMeo"><img alt="all - streak - longest card" src="https://streak-stats.demolab.com/?user=Quentindimeo&theme=dark&hide_border=true&border_radius=4.5&locale=en&sections=total%2Ccurrent%2Clongest&card_width=450&card_height=130&type=svg" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/QuentindiMeo"><img alt="Github lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuentindiMeo&count_private=true&langs_count=8&theme=transparent&card_width=330&layout=compact&show_icons=true&hide_border=true" /></a>
 
 </div>
