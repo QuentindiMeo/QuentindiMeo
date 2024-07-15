@@ -1,29 +1,25 @@
-### Languages and tools I've worked with:  <sup><sub>(click to go)</sub></sup>
+### The main tools I've worked with:  <sup><sub>(click to go)</sub></sup>
 
 <div align="center">
 
-  [<img title="ReactJS" alt="React" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//react.svg" width="28px" />](https://github.com/QuentindiMeo/Dashboard)
-  [<img title="AngularJS" alt="AngJS" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//angularjs.svg" width="28px" />](https://www.capgemini.com)
-  [<img title="TypeScript" alt="TScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="28px" />](https://www.live-crew.com)
-  [<img title="ViteJS" alt="Vite" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//vite.svg" width="28px" />](https://www.steamulo.com)
   [<img title="Python" alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1028px-Python-logo-notext.svg.png" width="28px" />](https://github.com/QuentindiMeo/goodnight.py)
   [<img title="Java" alt="Java" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="28px" />](https://www.capgemini.com)
   [<img title="C++" alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1828px-ISO_C%2B%2B_Logo.svg.png" width="28px" />](https://github.com/QuentindiMeo/Quoter)
   [<img title="C" alt="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="28px" />](https://github.com/QuentindiMeo/Project-Euler)
-  [<img title="Makefile" alt="Makefile" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//makefile.svg" width="28px" />](https://github.com/QuentindiMeo)
   [<img title="HTML" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="28px" />](https://github.com/QuentindiMeo/IllaVita)
   [<img title="CSS" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="28px" />](https://github.com/QuentindiMeo/IllaVita)
-  [<img title="Git" alt="Git" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//git.svg" width="28px" />](https://github.com/QuentindiMeo)
   [<img title="Docker" alt="Docker" src="https://cdn.iconscout.com/icon/free/png-256/free-docker-226091.png" width="28px" />](https://github.com/QuentindiMeo/Dashboard)
-  [<img title="Haskell" alt="Haskell" src="https://img.stackshare.io/service/1069/oCgm29k9.png" width="28px" />](https://github.com/QuentindiMeo/HS-Training-Camp)
-  [<img title="Flutter" alt="Flutter" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//flutter.svg" width="28px" />](https://github.com/Hik-UP)
-  [<img title="Prolog" alt="Prolog" src="https://dashboard.snapcraft.io/site_media/appmedia/2020/04/Prolog-logo-512.png" width="28px" />](https://github.com/QuentindiMeo)
-  [<img title="regular expression" alt="regex" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//regex.svg" width="28px" />](https://github.com/QuentindiMeo)
-  [<img title="GIMP" alt="GIMP" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//gimp.svg" width="28px" />](https://github.com/QuentindiMeo)
-  [<img title="Premiere Pro" alt="PrPro" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//premiere.svg" width="28px" />](https://github.com/QuentindiMeo)
+  [<img title="shell scripting" alt="script" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="28px" />](https://github.com/QuentindiMeo/Solitarium)
+  [<img title="ReactJS" alt="React" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//react.svg" width="28px" />](https://github.com/QuentindiMeo/Dashboard)
+  [<img title="AngularJS" alt="AngJS" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//angularjs.svg" width="28px" />](https://www.capgemini.com)
+  [<img title="TypeScript" alt="TScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="28px" />](https://www.live-crew.com)
   [<img title="Flask" alt="Flask" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//flask.svg" width="28px" />](https://github.com/QuentindiMeo)
   [<img title="Visual Studio Code" alt="VSCode" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//vscode.svg" width="28px" />](https://github.com/QuentindiMeo)
-  [<img title="shell scripting" alt="script" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="28px" />](https://github.com/QuentindiMeo/Solitarium)
+  [<img title="Git" alt="Git" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//git.svg" width="28px" />](https://github.com/QuentindiMeo)
+  [<img title="regular expression" alt="regex" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//regex.svg" width="28px" />](https://github.com/QuentindiMeo)
+  [<img title="Makefile" alt="Makefile" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//makefile.svg" width="28px" />](https://github.com/QuentindiMeo)
+  [<img title="Haskell" alt="Haskell" src="https://img.stackshare.io/service/1069/oCgm29k9.png" width="28px" />](https://github.com/QuentindiMeo/HS-Training-Camp)
+  [<img title="Flutter" alt="Flutter" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//flutter.svg" width="28px" />](https://github.com/Hik-UP)
   [<img title="langs" alt="langs" src="https://upload.wikimedia.org/wikipedia/commons/1/14/Google_Translate_logo_%28old%29.png" width="28px" />](https://www.live-crew.com)
   [<img title="Minecraft" alt="MC" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//minecraft.svg" width="28px" />](https://github.com/CubicMC)
 
@@ -39,10 +35,10 @@
 
 ### Sectors of activity
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :mortar_board: Master's Degree student @ [**EPITECH Paris** :computer:](https://www.epitech.eu/) (*grad. 2024*)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :desktop_computer: Full stack developer @ [**Capgemini** :blue_heart:](https://www.capgemini.com/fr-fr/) (*March 2024 — ...*)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :iphone:&nbsp;&nbsp;Co-Founder & former Mobile dev and Web designer @ [**Hik'UP** :national_park:](https://github.com/Hik-UP)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :computer: Former Software developer (End of Studies Project) @ [**Cubic Server** :ice_cube:](https://github.com/CubicMC)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :mortar_board: Master's degree student @ [**EPITECH Paris** :computer:](https://www.epitech.eu/) (*grad. 2024*)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :desktop_computer: Full-stack developer @ [**Capgemini** :blue_heart:](https://www.capgemini.com/fr-fr/) (*March 2024 — ...*)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :iphone:&nbsp;&nbsp;Co-founder & former mobile dev and web designer @ [**Hik'UP** :national_park:](https://github.com/Hik-UP)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :computer: Former software developer (capstone project) @ [**Cubic Server** :ice_cube:](https://github.com/CubicMC)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :broom: Clean & efficient code advocate (mind your **branches**, or else 🔫)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :bomb: Emeritus mine sweeper (Personal Best: [**78s**](https://www.facebook.com/Quentin.Swono/posts/pfbid028j8njEjWZ4qCiVVSHJ9w8vf26p2t6Txwk2PpQKWzJ8jWbnMKoVHmoZCUAjjARbhpl) Expert noRNG)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :chess_pawn: Sigma chess enjoyer (~**1800** puzzle elo, yeah I know)  
