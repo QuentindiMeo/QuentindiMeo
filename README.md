@@ -9,12 +9,12 @@
   [<img title="HTML" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="28px" />](https://github.com/QuentindiMeo/IllaVita)
   [<img title="CSS" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="28px" />](https://github.com/QuentindiMeo/IllaVita)
   [<img title="Docker" alt="Docker" src="https://cdn.iconscout.com/icon/free/png-256/free-docker-226091.png" width="28px" />](https://github.com/QuentindiMeo/Dashboard)
-  [<img title="shell scripting" alt="script" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="28px" />](https://github.com/QuentindiMeo/Solitarium)
+  [<img title="TypeScript" alt="TScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="28px" />](https://www.live-crew.com)
   [<img title="ReactJS" alt="React" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//react.svg" width="28px" />](https://github.com/QuentindiMeo/Dashboard)
   [<img title="AngularJS" alt="AngJS" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//angularjs.svg" width="28px" />](https://www.capgemini.com)
-  [<img title="TypeScript" alt="TScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="28px" />](https://www.live-crew.com)
   [<img title="Flask" alt="Flask" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//flask.svg" width="28px" />](https://github.com/QuentindiMeo)
   [<img title="Visual Studio Code" alt="VSCode" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//vscode.svg" width="28px" />](https://github.com/QuentindiMeo)
+  [<img title="shell scripting" alt="script" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="28px" />](https://github.com/QuentindiMeo/Solitarium)
   [<img title="Git" alt="Git" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//git.svg" width="28px" />](https://github.com/QuentindiMeo)
   [<img title="regular expression" alt="regex" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//regex.svg" width="28px" />](https://github.com/QuentindiMeo)
   [<img title="Makefile" alt="Makefile" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//makefile.svg" width="28px" />](https://github.com/QuentindiMeo)
@@ -26,7 +26,7 @@
   <br />
 
   <sup><b>since July 01, 2024:</b></sup>&nbsp;&nbsp;![views](https://komarev.com/ghpvc/?username=QuentindiMeo&color=2347cc&style=flat-square&label=profile%20views)![ ](https://hit.yhype.me/github/profile?user_id=43745346)
-  ![GitHub Stats](https://img.shields.io/static/v1?label=longest%20streak&message=21&color=2347cc&style=flat-square)
+  ![GitHub Stats](https://img.shields.io/static/v1?label=longest%20streak&message=31&color=2347cc&style=flat-square)
   [![wakatime](https://wakatime.com/badge/user/e02be71d-4679-4707-9204-1bf72932d23c.svg?style=flat-square)](https://wakatime.com/@e02be71d-4679-4707-9204-1bf72932d23c)
 
 </div>
