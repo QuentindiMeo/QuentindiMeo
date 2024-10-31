@@ -18,7 +18,7 @@
   [<img title="Git" alt="Git" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//git.svg" width="28px" />](https://github.com/QuentindiMeo)
   [<img title="regular expression" alt="regex" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//regex.svg" width="28px" />](https://github.com/QuentindiMeo)
   [<img title="Makefile" alt="Makefile" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//makefile.svg" width="28px" />](https://github.com/QuentindiMeo)
-  [<img title="Haskell" alt="Haskell" src="https://img.stackshare.io/service/1069/oCgm29k9.png" width="28px" />](https://github.com/QuentindiMeo/HS-Training-Camp)
+  [<img title="Haskell" alt="Haskell" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//haskell.svg" width="28px" />](https://github.com/QuentindiMeo/HS-Training-Camp)
   [<img title="Flutter" alt="Flutter" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//flutter.svg" width="28px" />](https://github.com/Hik-UP)
   [<img title="langs" alt="langs" src="https://upload.wikimedia.org/wikipedia/commons/1/14/Google_Translate_logo_%28old%29.png" width="28px" />](https://www.live-crew.com)
   [<img title="Minecraft" alt="MC" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//minecraft.svg" width="28px" />](https://github.com/CubicMC)
