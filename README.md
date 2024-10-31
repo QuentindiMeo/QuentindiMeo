@@ -25,9 +25,7 @@
 
   <br />
 
-  <sup><b>since July 01, 2024:</b></sup>&nbsp;&nbsp;![views](https://komarev.com/ghpvc/?username=QuentindiMeo&color=2347cc&style=flat-square&label=profile%20views)![ ](https://hit.yhype.me/github/profile?user_id=43745346)
-  ![GitHub Stats](https://img.shields.io/static/v1?label=longest%20streak&message=31&color=2347cc&style=flat-square)
-  [![wakatime](https://wakatime.com/badge/user/e02be71d-4679-4707-9204-1bf72932d23c.svg?style=flat-square)](https://wakatime.com/@e02be71d-4679-4707-9204-1bf72932d23c)
+  <sup><b>since July 01, 2024:</b></sup>&nbsp;&nbsp;[![wakatime](https://wakatime.com/badge/user/e02be71d-4679-4707-9204-1bf72932d23c.svg?style=flat-square)](https://wakatime.com/@e02be71d-4679-4707-9204-1bf72932d23c)<!-- dupes ![longest streak](https://img.shields.io/static/v1?label=longest%20streak&message=31&color=2347cc&style=flat-square) --> ![views](https://komarev.com/ghpvc/?username=QuentindiMeo&color=2347cc&style=flat-square&label=profile%20views)![ ](https://hit.yhype.me/github/profile?user_id=43745346)
 
 </div>
 
@@ -36,8 +34,8 @@
 ### Sectors of activity
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :mortar_board: Master's degree student @ [**EPITECH Paris** :computer:](https://www.epitech.eu/) (*grad. 2024*)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :desktop_computer: Full-stack developer @ [**Capgemini** :blue_heart:](https://www.capgemini.com/fr-fr/) (*March 2024 — ...*)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :iphone:&nbsp;&nbsp;Co-founder & former mobile dev and web designer @ [**Hik'UP** :national_park:](https://github.com/Hik-UP)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :desktop_computer: Full-stack developer @ [**Athoria** :purple_heart:](http://athoria.fr/) (*November 2024 — ...*)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :iphone: Co-founder & Lead software engineer @ [**GTFR-CG** :clapper:](https://github.com/Thomas-Fernandes/GTFR-CG)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :computer: Former software developer (capstone project) @ [**Cubic Server** :ice_cube:](https://github.com/CubicMC)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :broom: Clean & efficient code advocate (mind your **branches**, or else 🔫)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :bomb: Emeritus mine sweeper (Personal Best: [**78s**](https://www.facebook.com/Quentin.Swono/posts/pfbid028j8njEjWZ4qCiVVSHJ9w8vf26p2t6Txwk2PpQKWzJ8jWbnMKoVHmoZCUAjjARbhpl) Expert noRNG)  
