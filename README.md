@@ -2,16 +2,17 @@
 
 <div align="center">
 
-  [<img title="Python" alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1028px-Python-logo-notext.svg.png" width="28px" />](https://github.com/QuentindiMeo/goodnight.py)
+  [<img title="TypeScript" alt="TScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="28px" />](https://www.live-crew.com)
+  [<img title="React" alt="React" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//react.svg" width="28px" />](https://github.com/Thomas-Fernandes/GTFR-CG)
+  [<img title="AngularJS" alt="AngJS" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//angularjs.svg" width="28px" />](https://www.capgemini.com)
+  [<img title="Spring Boot" alt="Spring" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//spring.svg" width="28px" />](https://www.capgemini.com)
   [<img title="Java" alt="Java" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="28px" />](https://www.capgemini.com)
+  [<img title="Python" alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1028px-Python-logo-notext.svg.png" width="28px" />](https://github.com/QuentindiMeo/goodnight.py)
   [<img title="C++" alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1828px-ISO_C%2B%2B_Logo.svg.png" width="28px" />](https://github.com/QuentindiMeo/Quoter)
   [<img title="C" alt="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="28px" />](https://github.com/QuentindiMeo/Project-Euler)
   [<img title="HTML" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="28px" />](https://github.com/QuentindiMeo/IllaVita)
   [<img title="CSS" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="28px" />](https://github.com/QuentindiMeo/IllaVita)
-  [<img title="Docker" alt="Docker" src="https://cdn.iconscout.com/icon/free/png-256/free-docker-226091.png" width="28px" />](https://github.com/QuentindiMeo/Dashboard)
-  [<img title="TypeScript" alt="TScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="28px" />](https://www.live-crew.com)
-  [<img title="ReactJS" alt="React" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//react.svg" width="28px" />](https://github.com/QuentindiMeo/Dashboard)
-  [<img title="AngularJS" alt="AngJS" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//angularjs.svg" width="28px" />](https://www.capgemini.com)
+  [<img title="Docker" alt="Docker" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//docker.svg" width="28px" />](https://github.com/QuentindiMeo/Dashboard)
   [<img title="Flask" alt="Flask" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//flask.svg" width="28px" />](https://github.com/QuentindiMeo)
   [<img title="Visual Studio Code" alt="VSCode" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//vscode.svg" width="28px" />](https://github.com/QuentindiMeo)
   [<img title="shell scripting" alt="script" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="28px" />](https://github.com/QuentindiMeo/Solitarium)
