@@ -34,13 +34,13 @@
 
 ### Sectors of activity
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :mortar_board: Master's degree student @ [**EPITECH Paris** :computer:](https://www.epitech.eu/) (*grad. 2024*)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :desktop_computer: Full-stack developer @ [**Athoria** :purple_heart:](http://athoria.fr/) (*November 2024 — ...*)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :mortar_board: Master's degree @ [**EPITECH Paris** :computer:](https://www.epitech.eu/) (*grad. 2024*)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :desktop_computer: Full stack engineer @ [**Athoria** :purple_heart:](http://athoria.fr/) (*November 2024 — ...*)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :iphone: Co-founder & Lead software engineer @ [**GTFR-CG** :clapper:](https://github.com/Thomas-Fernandes/GTFR-CG)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :computer: Former software developer (capstone project) @ [**Cubic Server** :ice_cube:](https://github.com/CubicMC)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :broom: Clean & efficient code advocate (mind your **branches**, or else 🔫)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :bomb: Emeritus mine sweeper (Personal Best: [**78s**](https://www.facebook.com/Quentin.Swono/posts/pfbid028j8njEjWZ4qCiVVSHJ9w8vf26p2t6Txwk2PpQKWzJ8jWbnMKoVHmoZCUAjjARbhpl) Expert noRNG)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :chess_pawn: Sigma chess enjoyer (~**1800** puzzle elo, yeah I know)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :chess_pawn: Sigma chess enjoyer (~**1850** puzzle elo, yeah I know)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :earth_africa: Language enthusiast (**5** spoken, **10+** understood ✍️)  
 
 # <!-- Small line break, looking better than <hr/> -->
@@ -52,9 +52,9 @@ What you will find here is a compilation of school and personal projects: math, 
 # <!-- Small line break, looking better than <hr/> -->
 
 <div align="center">
-  <!-- <a href="https://github.com/QuentindiMeo"><img alt="GitHub user stats" src="https://github-readme-stats.vercel.app/api?username=QuentindiMeo&count_private=true&include_all_commits=true&theme=transparent&show_icons=true&custom_title=Quentin%27s%20GitHub%20Stats&hide_border=true" /></a> -->
-  <a href="https://github.com/QuentindiMeo"><img alt="all - streak - longest card" src="https://streak-stats.demolab.com/?user=Quentindimeo&theme=dark&hide_border=true&border_radius=4.5&locale=en&sections=total%2Ccurrent%2Clongest&card_width=450&card_height=130&type=svg" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/QuentindiMeo"><img alt="GitHub user stats" src="https://github-readme-stats.vercel.app/api?username=QuentindiMeo&count_private=true&include_all_commits=true&theme=transparent&show_icons=true&custom_title=Quentin%27s%20GitHub%20Stats&hide_border=true" /></a>
+  <!-- <a href="https://github.com/QuentindiMeo"><img alt="all - streak - longest card" src="https://streak-stats.demolab.com/?user=Quentindimeo&theme=dark&hide_border=true&border_radius=4.5&locale=en&sections=total%2Ccurrent%2Clongest&card_width=450&card_height=130&type=svg" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
   <a href="https://github.com/QuentindiMeo"><img alt="Github lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuentindiMeo&count_private=true&langs_count=8&theme=transparent&card_width=330&layout=compact&show_icons=true&hide_border=true" /></a>
 
 </div>
