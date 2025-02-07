@@ -34,22 +34,22 @@
 
 ### Sectors of activity
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :mortar_board: Master's degree @ [**EPITECH Paris** :computer:](https://www.epitech.eu/) (*grad. 2024*)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :desktop_computer: Full stack engineer @ [**Athoria** :purple_heart:](http://athoria.fr/) (*November 2024 — ...*)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :iphone: Co-founder & Lead software engineer @ [**GTFR-CG** :clapper:](https://github.com/Thomas-Fernandes/GTFR-CG)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :computer: Former software developer (capstone project) @ [**Cubic Server** :ice_cube:](https://github.com/CubicMC)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :broom: Clean & efficient code advocate (mind your **branches**, or else 🔫)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :mortar_board: Master's Degree @ [**EPITECH Paris** :computer:](https://www.epitech.eu/) (*grad. 2024*)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :desktop_computer: Full Stack Software Engineer @ [**Athoria** :purple_heart:](http://athoria.fr/) (*November 2024—...*)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :speech_balloon: Co-founder & Lead Software Engineer @ [**GTFR-CG** :clapper:](https://github.com/Thomas-Fernandes/GTFR-CG) (*June 2024—...*)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :computer: former Software Developer (capstone project) @ [**Cubic Server** :ice_cube:](https://github.com/CubicMC)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :broom: Clean & Efficient Code advocate (mind your **branches**, or else 🔫)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :bomb: Emeritus mine sweeper (Personal Best: [**78s**](https://www.facebook.com/Quentin.Swono/posts/pfbid028j8njEjWZ4qCiVVSHJ9w8vf26p2t6Txwk2PpQKWzJ8jWbnMKoVHmoZCUAjjARbhpl) Expert noRNG)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :chess_pawn: Sigma chess enjoyer (~**1850** puzzle elo, yeah I know)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :chess_pawn: Chess puzzles enjoyer (~**1900** elo on a good day)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :earth_africa: Language enthusiast (**5** spoken, **10+** understood ✍️)  
 
 # <!-- Small line break, looking better than <hr/> -->
 
 What you will find here is a compilation of school and personal projects: math, interactive games, AI, language exploration, coding style flexing... I hope you'll find something interesting to you! :)
 
-<sup>Some repo's here are not up-to-date, I'll sort that out asap (one day before 2077 [maybe]); sorry in advance!</sup>
+<sup>Most personal repo's here are not up-to-date, I'll sort that out asap (one day before 2077 [maybe]); sorry in advance!</sup>
 
-# <!-- Small line break, looking better than <hr/> -->
+# <!-- Small line break, looks better than <hr/> -->
 
 <div align="center">
   <a href="https://github.com/QuentindiMeo"><img alt="GitHub user stats" src="https://github-readme-stats.vercel.app/api?username=QuentindiMeo&count_private=true&include_all_commits=true&theme=transparent&show_icons=true&custom_title=Quentin%27s%20GitHub%20Stats&hide_border=true" /></a>
