@@ -37,10 +37,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :mortar_board: Master's Degree @ [**EPITECH Paris** :computer:](https://www.epitech.eu/) (*grad. 2024*)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :desktop_computer: Full Stack Software Engineer @ [**Athoria** :purple_heart:](http://athoria.fr/) (*November 2024—...*)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :speech_balloon: Co-founder & Lead Software Engineer @ [**GTFR-CG** :clapper:](https://github.com/Thomas-Fernandes/GTFR-CG) (*June 2024—...*)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :computer: former Software Developer (capstone project) @ [**Cubic Server** :ice_cube:](https://github.com/CubicMC)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :computer: Former Software Developer (capstone project) @ [**Cubic Server** :ice_cube:](https://github.com/CubicMC)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :broom: Clean & Efficient Code advocate (mind your **branches**, or else 🔫)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :bomb: Emeritus mine sweeper (Personal Best: [**78s**](https://www.facebook.com/Quentin.Swono/posts/pfbid028j8njEjWZ4qCiVVSHJ9w8vf26p2t6Txwk2PpQKWzJ8jWbnMKoVHmoZCUAjjARbhpl) Expert noRNG)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :chess_pawn: Chess puzzles enjoyer (~**1900** elo on a good day)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :chess_pawn: Chess puzzles enjoyer (~**1900** elo on a good day)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :earth_africa: Language enthusiast (**5** spoken, **10+** understood ✍️)  
 
 # <!-- Small line break, looking better than <hr/> -->
