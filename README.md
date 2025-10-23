@@ -12,8 +12,8 @@
   [<img title="C" alt="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="28px" />](https://github.com/QuentindiMeo/Project-Euler)
   [<img title="HTML" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="28px" />](https://github.com/QuentindiMeo/IllaVita)
   [<img title="CSS" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="28px" />](https://github.com/QuentindiMeo/IllaVita)
-  [<img title="Docker" alt="Docker" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//docker.svg" width="28px" />](https://github.com/QuentindiMeo/Dashboard)
-  [<img title="Flask" alt="Flask" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//flask.svg" width="28px" />](https://github.com/QuentindiMeo)
+  [<img title="Docker" alt="Docker" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//docker.svg" width="28px" />](https://github.com/Thomas-Fernandes/GTFR-CG)
+  [<img title="Flask" alt="Flask" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//flask.svg" width="28px" />](https://github.com/Thomas-Fernandes/GTFR-CG)
   [<img title="Visual Studio Code" alt="VSCode" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//vscode.svg" width="28px" />](https://github.com/QuentindiMeo)
   [<img title="shell scripting" alt="script" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="28px" />](https://github.com/QuentindiMeo/Solitarium)
   [<img title="Git" alt="Git" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//git.svg" width="28px" />](https://github.com/QuentindiMeo)
@@ -40,16 +40,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :computer: Former Software Developer (capstone project) @ [**Cubic Server** :ice_cube:](https://github.com/CubicMC)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :broom: Clean & Efficient Code advocate (mind your **branches**, or else 🔫)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :bomb: Emeritus mine sweeper (Personal Best: [**78s**](https://www.facebook.com/Quentin.Swono/posts/pfbid028j8njEjWZ4qCiVVSHJ9w8vf26p2t6Txwk2PpQKWzJ8jWbnMKoVHmoZCUAjjARbhpl) Expert noRNG)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :chess_pawn: Chess puzzles enjoyer (~**1900** elo on a good day)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :earth_africa: Language enthusiast (**5** spoken, **10+** understood ✍️)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :chess_pawn: Chess rapid enjoyer (~**1600** elo on a good day)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :earth_africa: Language enthusiast (**6** spoken, **10+** understood ✍️)  
 
 # <!-- Small line break, looking better than <hr/> -->
 
-What you will find here is a compilation of school and personal projects: math, interactive games, AI, language exploration, coding style flexing... I hope you'll find something interesting to you! :)
-
-<sup>Most personal repo's here are not up-to-date, I'll sort that out asap (one day before 2077 [maybe]); sorry in advance!</sup>
-
-# <!-- Small line break, looks better than <hr/> -->
+What you will find here is a compilation of school and personal projects: math, interactive games, AI, language exploration...
 
 <div align="center">
   <a href="https://github.com/QuentindiMeo"><img alt="GitHub user stats" src="https://github-readme-stats.vercel.app/api?username=QuentindiMeo&count_private=true&include_all_commits=true&theme=transparent&show_icons=true&custom_title=Quentin%27s%20GitHub%20Stats&hide_border=true" /></a>
