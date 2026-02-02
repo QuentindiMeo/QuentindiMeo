@@ -2,24 +2,22 @@
 
 <div align="center">
 
-  [<img title="TypeScript" alt="TScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="28px" />](https://www.live-crew.com)
+  [<img title="TypeScript" alt="TScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="28px" />](https://www.lefebvre-dalloz.fr)
   [<img title="React" alt="React" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//react.svg" width="28px" />](https://github.com/Thomas-Fernandes/GTFR-CG)
   [<img title="AngularJS" alt="AngJS" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//angularjs.svg" width="28px" />](https://www.capgemini.com)
   [<img title="Spring Boot" alt="Spring" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//spring.svg" width="28px" />](https://www.capgemini.com)
-  [<img title="Java" alt="Java" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="28px" />](https://www.capgemini.com)
-  [<img title="Python" alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1028px-Python-logo-notext.svg.png" width="28px" />](https://github.com/QuentindiMeo/goodnight.py)
-  [<img title="C++" alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1828px-ISO_C%2B%2B_Logo.svg.png" width="28px" />](https://github.com/QuentindiMeo/Quoter)
+  [<img title="Java" alt="Java" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="28px" />](https://www.lefebvre-dalloz.fr)
+  [<img title="Python" alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" width="28px" />](https://github.com/QuentindiMeo/goodnight.py)
+  [<img title="C++" alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png" width="28px" />](https://github.com/QuentindiMeo/Quoter)
   [<img title="C" alt="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="28px" />](https://github.com/QuentindiMeo/Project-Euler)
-  [<img title="HTML" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="28px" />](https://github.com/QuentindiMeo/IllaVita)
-  [<img title="CSS" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="28px" />](https://github.com/QuentindiMeo/IllaVita)
   [<img title="Docker" alt="Docker" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//docker.svg" width="28px" />](https://github.com/Thomas-Fernandes/GTFR-CG)
   [<img title="Flask" alt="Flask" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//flask.svg" width="28px" />](https://github.com/Thomas-Fernandes/GTFR-CG)
   [<img title="Visual Studio Code" alt="VSCode" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//vscode.svg" width="28px" />](https://github.com/QuentindiMeo)
   [<img title="shell scripting" alt="script" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="28px" />](https://github.com/QuentindiMeo/Solitarium)
   [<img title="Git" alt="Git" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//git.svg" width="28px" />](https://github.com/QuentindiMeo)
-  [<img title="regular expression" alt="regex" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//regex.svg" width="28px" />](https://github.com/QuentindiMeo)
-  [<img title="Makefile" alt="Makefile" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//makefile.svg" width="28px" />](https://github.com/QuentindiMeo)
-  [<img title="Haskell" alt="Haskell" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//haskell.svg" width="28px" />](https://github.com/QuentindiMeo/HS-Training-Camp)
+  [<img title="regular expression" alt="regex" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//regex.svg" width="28px" />](https://github.com/Thomas-Fernandes/GTFR-CG)
+  [<img title="Makefile" alt="Makefile" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//makefile.svg" width="28px" />](https://github.com/QuentindiMeo/Quoter)
+  [<img title="Haskell" alt="Haskell" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//haskell.svg" width="28px" />](https://github.com/QuentindiMeo)
   [<img title="Flutter" alt="Flutter" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//flutter.svg" width="28px" />](https://github.com/Hik-UP)
   [<img title="langs" alt="langs" src="https://upload.wikimedia.org/wikipedia/commons/1/14/Google_Translate_logo_%28old%29.png" width="28px" />](https://www.live-crew.com)
   [<img title="Minecraft" alt="MC" src="https://raw.githubusercontent.com/mallowigi/iconGenerator/master/assets/icons/files//minecraft.svg" width="28px" />](https://github.com/CubicMC)
@@ -35,8 +33,8 @@
 ### Sectors of activity
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :mortar_board: Master's Degree @ [**EPITECH Paris** :computer:](https://www.epitech.eu/) (*grad. 2024*)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :desktop_computer: Full Stack Software Engineer @ [**Athoria** :purple_heart:](http://athoria.fr/) (*November 2024—...*)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :speech_balloon: Co-founder & Lead Software Engineer @ [**GTFR-CG** :clapper:](https://github.com/Thomas-Fernandes/GTFR-CG) (*June 2024—...*)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :desktop_computer: Full Stack Software Engineer @ [**Athoria** :purple_heart:](http://athoria.fr/) (*Nov 2024—...*)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :speech_balloon: Co-founder & Lead Software Engineer @ [**GTFR-CG** :clapper:](https://github.com/Thomas-Fernandes/GTFR-CG) (*Jun 2024—Apr 2025*)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :computer: Former Software Developer (capstone project) @ [**Cubic Server** :ice_cube:](https://github.com/CubicMC)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :broom: Clean & Efficient Code advocate (mind your **branches**, or else 🔫)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :bomb: Emeritus mine sweeper (Personal Best: [**78s**](https://www.facebook.com/Quentin.Swono/posts/pfbid028j8njEjWZ4qCiVVSHJ9w8vf26p2t6Txwk2PpQKWzJ8jWbnMKoVHmoZCUAjjARbhpl) Expert noRNG)  
@@ -44,8 +42,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :earth_africa: Language enthusiast (**6** spoken, **10+** understood ✍️)  
 
 # <!-- Small line break, looking better than <hr/> -->
-
-What you will find here is a compilation of school and personal projects: math, interactive games, AI, language exploration...
 
 <div align="center">
   <a href="https://github.com/QuentindiMeo"><img alt="GitHub user stats" src="https://github-readme-stats.vercel.app/api?username=QuentindiMeo&count_private=true&include_all_commits=true&theme=transparent&show_icons=true&custom_title=Quentin%27s%20GitHub%20Stats&hide_border=true" /></a>
